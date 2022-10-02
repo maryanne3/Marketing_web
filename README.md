@@ -1,16 +1,10 @@
-## Horiseon Code Refractor 
-## Table of Contents
-1. [Outline](#general-info)
-2. [Technologies](#technologies)
-3. [Web screenshot](#installation)
-4. [Link](#collaboration)
-5. [
+# Horiseon Code Refractor 
+
 ## Outline  
 The task for this project was to use the provided starter code and refractor by modifiying the exisiting website in order to make it more accessible to all users.This was done by using HTML and CSS programmes to improve accessbility by:
-*** 
-
-
-
+* Including responsive links that functioning correctly 
+* Making sure the semantic structure of CSS and HTML are organised 
+* Making sure images are visible
 
 
 ## Web screenshot
