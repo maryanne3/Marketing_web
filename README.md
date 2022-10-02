@@ -1,6 +1,6 @@
 ## Horiseon Code Refractor 
 ## Outline  
-the task for this project was to 
+The task for this project was to use the provided starter code and refractor by modifiying the exisiting website in order to make it more accessible to all users. 
 
 
 ## Web screenshot
