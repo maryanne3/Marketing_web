@@ -10,7 +10,7 @@ The task for this project was to use the provided starter code and refractor by 
 ## Web screenshot
 ![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/113936470/193471876-22b4c539-42f2-416e-b371-6c448c4551e0.png)
 ## Link
-## https://maryanne3.github.io/marketing_web/
+### https://maryanne3.github.io/marketing_web/
 
 
 ## HTML Screenshot 
