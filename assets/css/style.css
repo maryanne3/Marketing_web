@@ -7,11 +7,11 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*header colour - white*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #2a607c; 
     color: #ffffff;
 }
 
@@ -31,7 +31,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*contents here are listed*/
 .header div ul {
     list-style-type: none;
 }
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*colour- white*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*insert header image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -77,7 +77,7 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding-left: 20px;
+    padding: 20px;
     clear: both;
     float: right; 
     width: 20%;
@@ -100,20 +100,25 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/*This is for flex-wrap:wrap</h3>*/
 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    flex-wrap: wrap;
 }
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    flex-wrap: wrap;
 }
 
 .benefit-lead img {
@@ -186,6 +191,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+
 }
 
 .footer {
